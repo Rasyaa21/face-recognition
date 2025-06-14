@@ -1,4 +1,4 @@
-# 🧠 Face Recognition SaaS Project
+# 🧠 Face Recognition 
 
 Real-time face detection and recognition system using:
 
